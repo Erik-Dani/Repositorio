@@ -1,6 +1,31 @@
 Cronograma de actividades academicas.
 -semana 1 del mes de febrero.
-	-lunes
-		08 am--> 02pm == clases taller y ejercicios.
-		02 pm --> 05 == practica artistica.
+
+-lunes
+		08 am--> 02 pm == clases taller y ejercicios.
+		02 pm --> 05 pm == practica artistica.
+-martes
+		08 am--> 10 pm == clases.
+		02 pm --> 04 pm == clases.
+		04 pm --> 06 pm == practica artistica.
+		06 pm --> 09 pm == clases.
+-miercoles
+		08 am--> 11 am == clases taller y ejercicios.
+		12 pm --> 06 pm == clases.
+-jueves
+		08 am--> 10 pm == clases.
+		02 pm --> 04 pm == clases.
+		04 pm --> 06 pm == practica artistica.
+		07 pm --> 09 pm == clases taller.
+-viernes
+		08 am--> 11 am == clases taller y ejercicios.
+		12 pm --> 06 pm == clases.
+-sabado
+		06 am--> 9 pm == actividad fisica.
+		09 am--> 02 pm == clases taller y ejercicios.
+		03 pm --> 06 pm == practica artistica.
+-domingo
+		06 am--> 10 pm == actividad fisica.
+		011 am--> 010 pm == clases taller y ejercicios.
+
 		
